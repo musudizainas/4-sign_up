@@ -1,0 +1,19 @@
+body {   
+}
+
+.container {
+    display: inline-block;
+    width: 800px;
+}
+
+.left-column {
+    
+    width: 40%;
+    float: left;
+}
+
+.right-column {
+    
+    width: 60%;
+    float: left;
+}
