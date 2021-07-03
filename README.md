@@ -11,7 +11,7 @@ This project is for educational porpuses only. Pull request are welcome, but pri
 
 Site published at https://musudizainas.github.io/musudizainas-sign_up/
 
-Design: [Mergaite](https://cdn.discordapp.com/attachments/850245533838868480/850246368214908970/day1dr.png)
+Design: [Sign-up](https://cdn.discordapp.com/attachments/850245533838868480/850246368214908970/day1dr.png)
 
 ## Project features
 
