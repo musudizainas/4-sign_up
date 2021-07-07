@@ -21,8 +21,12 @@ body {
 
 h1 {
 }
+
+.bottom-texts {
+}
+
+.bottom-texts > a {
   
-a {
     color: #fff;
 }
 
@@ -32,4 +36,28 @@ a {
     float: left;
     padding: 60px;
     background-color: #fff;
+}
+
+.close {
+}
+
+form {
+}
+
+form >.form-row > {
+}
+
+form >.form-row > label {
+}
+
+form >.form-row > input {
+}
+
+form >.form-row > button {
+}
+
+form >.form-row > span {
+}
+
+form >.form-row > a {
 }

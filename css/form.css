@@ -1,0 +1,51 @@
+form {
+    display: inline-block;
+    width: 100%;
+}
+
+form > .form-row  {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 30px;
+}
+form > .form-row:last-of-type {
+    margin-bottom: 0;
+}
+
+form > .form-row > label {
+    display: inline-block;
+    width: 100%;
+    font-size: 17px;
+    color: #777;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+
+form > .form-row > input {
+    display: inline-block;
+    width: 100%;
+    font-size: 20px;
+    line-height: 30px;
+    border: none;
+    border-bottom: 1px solid #ccc;
+}
+
+form >.form-row > button {
+    font-size: 20px;
+    line-height: 26px;
+    text-transform: capitalize;
+    padding: 5px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 20px;
+    background: #2348d4;
+    background: linear-gradient(53deg, #2348d4, #0265de 100%);
+    color: #fff;
+    border: none;
+}
+
+form >.form-row > span {
+}
+
+form >.form-row > a {
+}
