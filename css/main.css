@@ -10,12 +10,14 @@ body {
 }
 
 .left-column {
-    
     width: 40%;
     float: left;
     padding: 40px;
     padding-bottom: 20px;
     background-color: #3f52b2;
+    background-image: url(../img/day1dr.jpg) ;
+    background-size: cover;
+    background-position: center;
     color: #fff;
 }
 
