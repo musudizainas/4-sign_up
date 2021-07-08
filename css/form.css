@@ -47,6 +47,10 @@ form >.form-row > button {
     color: #fff;
     border: none;
 }
+::placeholder {
+    font-style: italic;
+    color: #777;
+}
 
 
 form >.form-row > button:hover {
